@@ -1,6 +1,7 @@
 # UnityGameViewManager
 ## How to use:
-- Call UnityResolutionManager.UseCustomResolution(width,height,label) to set the designed resolution on Play within Unity Editor
+- Place UnityGameViewManager.cs anywhere in assets folder
+- Call UnityResolutionManager.UseCustomResolution(width,height,label) to set the resolution of the GameView within Unity Editor on Play 
 - Automatically removes when Play ends
 - Note that you should not remove or add new resolution while in Play Mode
 
