@@ -1,4 +1,5 @@
 # UnityGameViewManager
+Programmatically changes Unity Game Window's Resolution On Play. Useful for testing under fix resolution
 ## How to use:
 - Place UnityGameViewManager.cs anywhere in assets folder
 - Call UnityResolutionManager.UseCustomResolution(width,height,label) to set the resolution of the GameView within Unity Editor on Play 
